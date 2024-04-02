@@ -6,38 +6,7 @@ https://katie-todolist-deployment.devacademy.nz/
 
 For this challenge, we will build a todo app (which is a common way to practice a new technology), using the full stack! From the database to the server, the API client, React and React Query, this app will ask you to use everything you've learned.
 
-## Setup
 
-### 0. Cloning and installation
-
-- [ ] Clone this repo, navigate to it, install packages, and start the server with `npm run dev`
-  <details style="padding-left: 2em">
-    <summary>Tip</summary>
-
-  You may also want to start a new branch
-
-  ```sh
-  cd todo-full-stack
-  npm i
-  git checkout -b <branchname>
-  npm run dev
-  ```
-
-  </details>
-
-- [ ] See the designs [here](http://localhost:5173/designs/index.html)
-
-<details>
-  <summary>More about using <code>npm</code> vs <code>npx</code></summary>
-
-- When running knex, run `npm run knex <command>`, e.g. `npm run knex migrate:latest` rather than using `npx`
-</details>
-
----
-
-## Requirements
-
-Here's a list of steps in case they are useful. You can build in any order you like though ;)
 
 ## Back end (Server-side)
 
@@ -69,22 +38,5 @@ Here's a list of steps in case they are useful. You can build in any order you l
 
 ---
 
-## Stretch
 
-<details>
-  <summary>More about stretch challenges</summary>
 
-- Forms can be tough to build accessibly. First ensure all parts of your form can be reached and used with keyboard-only navigation. Then test your form page with the WAVE browser extension, and fix any accessibility issues it detects
-
-</details>
-
-## Submitting this Challenge for Marking
-
-This challenge can be used for the following trello assessments:
- 
-- **WD03 - Forms**
-- **WD04- Fullstack** **_*Note_** - you will need to deploy this challenge to dokku to pass this trello assessment.
-- **CP02 - Use two or more software quality practises to improve an application**
-- **CP04 - Create and deploy a rich full-stack application using a modern framework**
-
-[Provide feedback on this repo](https://docs.google.com/forms/d/e/1FAIpQLSfw4FGdWkLwMLlUaNQ8FtP2CTJdGDUv6Xoxrh19zIrJSkvT4Q/viewform?usp=pp_url&entry.1958421517=todo-full-stack)
