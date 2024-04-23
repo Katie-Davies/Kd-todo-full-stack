@@ -1,5 +1,4 @@
-Link to deployed 
-https://katie-todolist-deployment.devacademy.nz/
+[Link to deployed application](https://kate-todos.pushed.nz/)
 
 
 [Blog Post](https://medium.com/@millerkatie1990/todo-or-not-todo-8b7a25332959)
